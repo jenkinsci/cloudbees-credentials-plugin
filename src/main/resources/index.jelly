@@ -1,4 +1,5 @@
+<?jelly escape-by-default='true'?>
 <div>
   <b>CloudBees Credentials Plugin</b><br/>
-This plugin is used to manage credentials within Jenkins. This plugin is used by CloudBees plugins to access CloudBees services. 
+This plugin is used to manage credentials within Jenkins. This plugin is used by CloudBees plugins to access CloudBees services.
 </div>
