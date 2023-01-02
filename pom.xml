@@ -98,7 +98,7 @@ This plugin is used to manage credentials within Jenkins. This plugin is used by
   <licenses>
     <license>
       <name>MIT</name>
-      <url>http://www.opensource.org/licenses/mit-license.php</url>
+      <url>https://www.opensource.org/licenses/mit-license.php</url>
     </license>
   </licenses>
 </project>
