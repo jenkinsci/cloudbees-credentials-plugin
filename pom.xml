@@ -40,13 +40,10 @@
   <packaging>hpi</packaging>
 
   <name>CloudBees Credentials Plugin</name>
-  <url>https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Credentials+Plugin</url>
-  <description>
-This plugin is used to manage credentials within Jenkins. This plugin is used by CloudBees plugins to access CloudBees services. 
-  </description>
+  <url>https://github.com/jenkinsci/cloudbees-credentials-plugin</url>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
+    <connection>scm:git:https://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
     <tag>HEAD</tag>
